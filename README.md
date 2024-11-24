@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋,Nice to see you! I'm Junwang Guo</h1>
+<h1 align="center">Hey👋,Nice to see you! I'm Nick Guo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rancho-7&label=Profile%20views&color=0e75b6&style=flat" alt="rancho-7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lansg504" target="blank"><img src="https://img.shields.io/twitter/follow/lansg504?logo=twitter&style=for-the-badge" alt="lansg504" /></a> </p>
