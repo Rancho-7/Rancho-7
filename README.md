@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lansg504" target="blank"><img src="https://img.shields.io/twitter/follow/lansg504?logo=twitter&style=for-the-badge" alt="lansg504" /></a> </p>
 
-- 🌏 I’m from Xi'an, Shanxi, China, and I’m currently living in ~~(Suzhou)~~  **Shenzhen.**
+- 🌏 I’m from Xi'an, Shanxi, and I’m currently living in ~~(Suzhou)~~  **Shenzhen.**
 
 - 🎧 I enjoy listening to podcasts and reading books,especially those about business stories. Recently, I've been listening to '半拿铁' and '李诞' quite a lot.
 
