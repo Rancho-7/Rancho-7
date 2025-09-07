@@ -9,7 +9,7 @@
 
 - 🚶 I enjoy visiting different places and interacting with different people. It's always interesting to talk with strangers.Even though I'm an ISTP. 🤓
 
-- 🤝 I’m currently ~~on the lookout for interesting open-source projects to dive into~~ contributing to [Kafka](https://github.com/apache/kafka).
+- 🤝 I’m currently contributing to [Kafka](https://github.com/apache/kafka).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
