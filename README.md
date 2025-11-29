@@ -5,9 +5,7 @@
 
 - 🌏 I’m from Xi'an, Shanxi, and I’m currently living in ~~(Shenzhen)~~  **Hangzhou.**
 
-- 🎧 I enjoy listening to podcasts and reading books,especially those about business stories. Recently, I've been listening to '半拿铁' and '李诞' quite a lot.
-
-- 🚶 I enjoy visiting different places and interacting with different people. It's always interesting to talk with strangers.Even though I'm an ISTP. 🤓
+- 🚶 I enjoy visiting different places and interacting with different people. 
 
 - 🤝 I’m currently contributing to [Kafka](https://github.com/apache/kafka).
 
